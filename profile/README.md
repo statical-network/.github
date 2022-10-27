@@ -17,13 +17,3 @@ Press the join button to join the server:
 ## Projects
 
 **Main**
-- [Incognito](https://github.com/amethystnetwork-dev/Incognito) - Unofficial Incognito easy deployment version with TompHTTP bare server included.
-- [Tsunami Updated](https://github.com/amethystnetwork-dev/Tsunami-2.0) - Tsunami Updated is a continuation of Nebelung's work and has a expanded game library.
-- [Bare Server Deployable](https://github.com/amethystnetwork-dev/bare-server-deployable) - A deployable version of the Bare Sever.
-
-**Other**
-- [gfiles-fork](https://github.com/amethystnetwork-dev/gfiles-fork) - Fork of [BinBashBanana/gfiles](https://github.com/BinBashBanana/gfiles).
-- [google](https://github.com/amethystnetwork-dev/google) - Something found on Replit.
-
-**WIP**
-- [Amethyst](https://github.com/amethystnetwork-dev/Amethyst) - Custom proxy website.
