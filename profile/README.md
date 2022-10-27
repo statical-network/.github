@@ -4,7 +4,7 @@
 
 <h1>statical network</h1>
 
-<h3>Proxy Development</h3>
+<h3>**Proxy Development** at it's finest</h3>
 
 </div>
 
