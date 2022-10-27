@@ -1,6 +1,6 @@
 <div align="center">
 
-<img style="border-radius:50%" height="150px" src="https://raw.githubusercontent.com/statical-network/.github/main/img/statical-network.png">
+<img style="border-radius:50%" height="150px" src="https://raw.githubusercontent.com/statical-network/.github/main/main/img/statical-network.png">
 
 <h1>statical network</h1>
 
